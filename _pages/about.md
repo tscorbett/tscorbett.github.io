@@ -23,5 +23,5 @@ social: false  # includes social icons at the bottom of the page
 <p>Postdoctoral fellow at Universität Wien,</p>
 <p>formerly a postdoc at Universitet København and the University of Melbourne.</p>
 
-<p>I'm a theoretical particle physicist/ particle phenomenologist, my primary research interest is the Standard Model Effective Field Theory (SMEFT). I am interested in studying the SMEFT as a Quantum Field Theory and understanding its phenomelogy beyond leading order in both the loop and SMEFT expansions. I focus on Higgs and Electroweak physics, but have also worked in flavor physics and baryogenesis.</p> 
+<p>I'm a theoretical particle physicist/particle phenomenologist, my primary research interest is the Standard Model Effective Field Theory (SMEFT). I am interested in studying the SMEFT as a Quantum Field Theory and understanding its phenomelogy beyond leading order in both the loop and SMEFT expansions. I focus on Higgs and Electroweak physics, but have also worked in flavor physics and baryogenesis.</p> 
 
