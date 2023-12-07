@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ufind.univie.ac.at/de/person.html?id=1003627'>Universität Wien</a>
+subtitle: <a href='https://ufind.univie.ac.at/de/person.html?id=1003627'>Universität Wien</a>, <a href='https://inspirehep.net/authors/1259777?ui-citation-summary=true'> Spires publications and analytics</a>
 
 profile:
   align: right
