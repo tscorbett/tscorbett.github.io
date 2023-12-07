@@ -2,9 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Tyler Corbett
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: English (native), German (A2), Danish (B1), Spanish (B2)
+      value: English, German
 
 - title: Education
   type: time_table
