@@ -29,7 +29,10 @@
       year: 2015-2018
 
 
-- title: Grants, Awards, and Honors (Approx. 680k euros/$760k)
+- title: Grants, Awards, and Honors 
+  type: list
+  contents:
+    - (Approx. 680k euros/$760k)
   type: time_table
   contents:
     - year: 2024
@@ -73,6 +76,7 @@
 - title: Student Mentorship and Supervision
   type: list
   contents:
-    - 5 PhD Students Mentored
+    - Currently supervising one Master's student
     - 1 Master's student as primary supervisor
+    - 5 PhD Students Mentored
     - 1 Master's student mentored
