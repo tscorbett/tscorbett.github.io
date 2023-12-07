@@ -51,10 +51,28 @@
     - year: 2015
       items: 
         - Dresden Prize for "outstanding theoretical thesis"
-    - year 2014
+    - year: 2014
       items: 
         - Peter B Khan Fellowship (Award)
-    - year 2011
+    - year: 2011
       items: 
         - David Fox Prize for "outstanding teaching"
+    - year: 2010
+      items: 
+        - Hal W. Metzger prize in Astronomy
 
+- title: Publication Statistics
+  type: nested_list
+  contents:
+    - title: 29 Publications
+    - title: 1,391 citations from peer reviewed articles (3,538 from citeable)
+    - title: h-index: 17 (19)
+    - title: 2 single authored
+    - title: 20% with students mentored
+
+- title: Student Mentorship and Supervision
+  type: nested_list
+  contents:
+    - title: 5 PhD Students Mentored
+    - title: 1 Master's student as primary supervisor
+    - title: 1 Master's student mentored
