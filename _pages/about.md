@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ufind.univie.ac.at/de/person.html?id=1003627'>Universität Wien</a>
 
 profile:
   align: right
