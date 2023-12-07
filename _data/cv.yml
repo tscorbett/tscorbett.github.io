@@ -64,15 +64,5 @@
 - title: Publication Statistics
   type: list
   contents:
-    - title: 29 Publications
-    - title: 1,391 citations from peer reviewed articles (3,538 from citeable)
-    - title: h-index: 17 (19)
-    - title: 2 single authored
-    - title: 20% with students mentored
+    - 29 Publications
 
-- title: Student Mentorship and Supervision
-  type: list
-  contents:
-    - title: 5 PhD Students Mentored
-    - title: 1 Master's student as primary supervisor
-    - title: 1 Master's student mentored
