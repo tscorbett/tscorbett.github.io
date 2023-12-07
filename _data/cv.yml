@@ -30,9 +30,11 @@
 
 
 - title: Grants, Awards, Honors 
+  type: map
+  contents: 
+    - name: (Total approx. 680k euros/$760k)
   type: time_table
   contents:
-    - title: (Total approx. 680k euros/$760k)
     - year: 2024
       items: 
         - DESY Theorist of the Month (Future)
