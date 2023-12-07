@@ -13,5 +13,18 @@
       institution: YITP, Stony Brook University
       year: 2015
       description:
-        - Thesis - "Effective Lagrangians for Higgs Physics"
+        - Thesis":" "Effective Lagrangians for Higgs Physics"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Fellow
+      institution: Universität Wien
+      year: 2023-present
+    - title: Postdoctoral and Marie Curie Fellow
+      institution: Niels Bohr Institute, Københavns Universitet
+      year: 2018-2023
+    - title: Postdoctoral Fellow
+      institution: Melbourne University
+      year: 2015-2018
 
