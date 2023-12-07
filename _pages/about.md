@@ -20,8 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p>Postdoctoral fellow at Universität Wien,</p>
-<p>formerly a postdoc at Universitet København and the University of Melbourne.</p>
+<p>Postdoctoral fellow at Universität Wien,<br>
+<p>formerly a postdoc at Universitet København and the University of Melbourne. PhD from C.N. Yang Institute for theoretical physics at SUNY Stony Brook.</p>
 
-<p>I'm a theoretical particle physicist/particle phenomenologist, my primary research interest is the Standard Model Effective Field Theory (SMEFT). I am interested in studying the SMEFT as a Quantum Field Theory and understanding its phenomelogy beyond leading order in both the loop and SMEFT expansions. I focus on Higgs and Electroweak physics, but have also worked in flavor physics and baryogenesis.</p> 
+<p>I'm a theoretical particle physicist/particle phenomenologist, my primary research interest is the Standard Model Effective Field Theory (SMEFT). 
+I am interested in studying the SMEFT as a Quantum Field Theory and understanding its phenomelogy beyond leading order in both the loop and SMEFT expansions. 
+I have played a major role in the development of the geoSMEFT, an approach to the SMEFT that greatly simplifies calculations and allows for a more profound understanding of the SMEFT from geometric considerations.
+My phenomenological focus is on Higgs and Electroweak physics, but am interested in and have also worked on flavor physics and baryogenesis.</p> 
 

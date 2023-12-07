@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ufind.univie.ac.at/de/person.html?id=1003627'>Universität Wien</a>
 
 profile:
   align: right
@@ -20,8 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p>Postdoctoral fellow at Universität Wien,</p>
-<p>formerly a postdoc at Universitet København and the University of Melbourne.</p>
+<p>Postdoctoral fellow at Universität Wien,<br>
+<p>formerly a postdoc at Universitet København and the University of Melbourne. PhD from C.N. Yang Institute for theoretical physics at SUNY Stony Brook.</p>
 
 <p>I'm a theoretical particle physicist/particle phenomenologist, my primary research interest is the Standard Model Effective Field Theory (SMEFT). I am interested in studying the SMEFT as a Quantum Field Theory and understanding its phenomelogy beyond leading order in both the loop and SMEFT expansions. I focus on Higgs and Electroweak physics, but have also worked in flavor physics and baryogenesis.</p> 
 

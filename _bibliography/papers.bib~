@@ -4,7 +4,7 @@
 @article{Corbett:2023yhk,
     author = "Corbett, T. and Martin, A.",
     title = "{Higgs associated production with a vector decaying to two fermions in the geoSMEFT}",
-    eprint = "2306.00053",
+    arxiv = {2306.00053},
     archivePrefix = "arXiv",
     primaryClass = "hep-ph",
     month = "5",
