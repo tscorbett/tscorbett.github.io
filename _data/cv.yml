@@ -13,7 +13,7 @@
       institution: YITP, Stony Brook University
       year: 2015
       description:
-        - Thesis":" "Effective Lagrangians for Higgs Physics"
+        - Thesis - Effective Lagrangians for Higgs Physics
 
 - title: Experience
   type: time_table
@@ -28,3 +28,28 @@
       institution: Melbourne University
       year: 2015-2018
 
+
+- title: Grants, Awards, and Honors (Approx. 680k euros/$760k)
+  type: time_table
+  contents:
+    - year: 2024
+        - DESY Theorist of the Month (Future)
+    - year: 2022
+      items: 
+        - La Caixa Postdoctoral Junior Leader
+    - year: 2020
+      items: 
+        - Marie Curie IF
+        - 'Investigador Distinguido' Consellería De Educación, Galicia (Declined for MCIF)
+    - year: 2017
+        - Joint DAAD-Universities Australia Research Cooperation Scheme Grant
+    - year: 2016
+        - Betty Laby Travel Award
+    - year: 2015
+        - Dresden Prize for "outstanding theoretical thesis"
+    - year 2014
+        - Peter B Khan Fellowship (Award)
+    - year 2011
+        - David Fox Prize for "outstanding teaching"
+    - year 2010
+        - Hal W. Metzger prize in Astronomy
