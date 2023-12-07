@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<b>Fall 2023 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures, still in development)</b>
+<b>Fall 2023 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures, still in development)</b><br>
 A rapid introduction to Quantum Field Theory, culminating in lectures on Effective Field Theories and the Standard Model Effective Field Theory.
 The course develops QFT through the path integral formulation focusing on developing calculational techniques necessary for particle physics research.
 The notes were primarily developed following the textbooks by Sterman, Srednicki, and Schwartz.<br>
