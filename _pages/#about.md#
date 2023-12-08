@@ -1,0 +1,51 @@
+---
+layout: about
+title: about
+permalink: /
+subtitle: <a href='https://ufind.univie.ac.at/de/person.html?id=1003627'>UniversitÅ‰t Wien</a>,<br><a href='https://inspirehep.net/authors/1259777?ui-citation-summary=true'> Spires publications and citations</a>
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Department of Physics</p>
+    <p>UniversitÅ‰t Wien</p>
+    <p>Boltzmanngasse 5</p>
+    <p>1190 Wien, Austria</p>
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
+
+<p>Postdoctoral fellow at UniversitÅ‰t Wien,<br>
+<p>formerly a postdoc at Universitet KÅ¯benhavn and the University of Melbourne. PhD from C.N. Yang Institute for theoretical physics at SUNY Stony Brook.</p>
+
+<p>I'm a theoretical particle physicist/particle phenomenologist, my primary research interest is the Standard Model Effective Field Theory (SMEFT). 
+I am interested in studying the SMEFT as a Quantum Field Theory and understanding its phenomelogy beyond leading order in both the loop and SMEFT expansions. 
+I have played a major role in the development of the geoSMEFT, an approach to the SMEFT that greatly simplifies calculations and allows for a more profound understanding of the SMEFT from geometric considerations.
+My phenomenological focus is on Higgs and Electroweak physics, but am interested in and have also worked on flavor physics and baryogenesis.</p> 
+
+
+
+
+<!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
+<script type="text/javascript" src="https://www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false});
+});
+</script>
+
+<noscript>Free cookie consent management tool by <a href="https://www.termsfeed.com/">TermsFeed</a></noscript>
+<!-- End Cookie Consent by TermsFeed https://www.TermsFeed.com -->
+
+
+
+
+
+<!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
+
+<a href="#" id="open_preferences_center">Update cookies preferences</a>
