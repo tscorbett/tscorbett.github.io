@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: My teaching over the years, only my most recent teaching includes resources. Older materials are available upon request.<br>
-I have also taught at 3 summer schools, European School of High Energy Physics (2023), DKPI Spring Retreat (2022), and NBI Neutrino School <a href='https://www.youtube.com/watch?v=Ac27httrbkg'> (Youtube)<br>
+I have also taught at 3 summer schools, European School of High Energy Physics (2023), DKPI Spring Retreat (2022), and NBI Neutrino School <a href='https://www.youtube.com/watch?v=Ac27httrbkg'> (Youtube)</a><br>
 (This section still under development)
 nav: true
 nav_order: 5
