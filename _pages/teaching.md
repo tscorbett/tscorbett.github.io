@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: My teaching over the years, only recent teaching includes resources.
+description: My teaching over the years, only recent teaching includes resources. (Under development)
 nav: true
 nav_order: 5
 ---

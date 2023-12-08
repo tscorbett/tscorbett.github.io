@@ -12,7 +12,7 @@ profile:
     <p>Department of Physics</p>
     <p>Universität Wien</p>
     <p>Boltzmanngasse 5</p>
-    <p>1200 Wien, Austria</p>
+    <p>1190 Wien, Austria</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
