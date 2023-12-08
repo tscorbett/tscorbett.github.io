@@ -56,9 +56,9 @@ The course covered:<br>
 An introduction to one-loop calculations, renormalization, and renormalization group equations in Quantum Field Theory for Master's student. The format was one-half lectures, one-half presentation by students.<br>
 
 <br>
-<b> Spring 2012 - Electricity and Magnetism I grader (Graduate level)</b>
-<b> Spring 2012 - Graduate Laboratory instructor (Laboratory class for PhD and Master's students</b>
-<b> Fall 2011 - Quantum Mechanics I grader (Graduate level)</b>
-<b> Fall 2011 - Classical Physics Laboratory instructor (Introductory Bachelor's mechanics lab)</b>
-<b> Spring 2011 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b>
-<b> Fall 2010 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b>
+<b> Spring 2012 - Electricity and Magnetism I grader (Graduate level)</b><br>
+<b> Spring 2012 - Graduate Laboratory instructor (Laboratory class for PhD and Master's students</b><br>
+<b> Fall 2011 - Quantum Mechanics I grader (Graduate level)</b><br>
+<b> Fall 2011 - Classical Physics Laboratory instructor (Introductory Bachelor's mechanics lab)</b><br>
+<b> Spring 2011 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b><br>
+<b> Fall 2010 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b><br>
