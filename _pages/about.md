@@ -20,8 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Postdoctoral fellow at Universität Wien,</p>
-<p>formerly a postdoc at Universitet København and the University of Melbourne. PhD from C.N. Yang Institute for theoretical physics at SUNY Stony Brook.</p>
+<p>Postdoctoral fellow at Universität Wien,<br>
+formerly a postdoc at Universitet København and the University of Melbourne. PhD from C.N. Yang Institute for theoretical physics at SUNY Stony Brook.</p>
 
 <p>I'm a theoretical particle physicist/particle phenomenologist, my primary research interest is the Standard Model Effective Field Theory (SMEFT). 
 I am interested in studying the SMEFT as a Quantum Field Theory and understanding its phenomelogy beyond leading order in both the loop and SMEFT expansions. 
