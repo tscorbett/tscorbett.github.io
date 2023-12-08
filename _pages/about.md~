@@ -28,4 +28,4 @@ I am interested in studying the SMEFT as a Quantum Field Theory and understandin
 I have played a major role in the development of the geoSMEFT, an approach to the SMEFT that greatly simplifies calculations and allows for a more profound understanding of the SMEFT from geometric considerations.
 My phenomenological focus is on Higgs and Electroweak physics, but am interested in and have also worked on flavor physics and baryogenesis.</p> 
 
-
+<p> My CV can be found above. I have also included my notes, problem sets, and solutions used for teaching Quantum Field Theory in the fall of 2015 in the Teaching link.</p>
