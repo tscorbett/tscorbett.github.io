@@ -16,7 +16,7 @@ The course develops QFT through the path integral formulation focusing on develo
 The notes were primarily developed following the textbooks by Sterman, Srednicki, and Schwartz.<br>
 <br>
 Chapter 1 - Spin, irreducible representations, Lorentz group, some path integrals<br>
-&emsp;[Notes]({{ site.url }}/assets/pdf/1_Irreps_LorentzGroup.pdf) &emsp;&emsp; [Problems]({{ site.url}}/assets/pdf/ProblemSet1.pdf) &emsp;&emsp; [Solutions]({{ site.url}}/assets/pdf/soln1.pdf)<br>
+&emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/1_Irreps_LorentzGroup.pdf) &emsp;&emsp; [Problems]({{ site.url}}/assets/pdf/ProblemSet1.pdf) &emsp;&emsp; [Solutions]({{ site.url}}/assets/pdf/soln1.pdf)<br>
 Chapter 2 - Path integrals and generating functionals in scalar field theory<br>
 &emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/2_PI_GenFunc_FR.pdf) &emsp;&emsp; [Problems]({{ site.url}}/assets/pdf/ProblemSet2.pdf) &emsp;&emsp; [Solutions]({{ site.url}}/assets/pdf/soln2.pdf)<br>
 Chapter 3 - Lagrangains for fermions, Dirac algebra, path integrals for fermionic fields<br>
