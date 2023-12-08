@@ -15,21 +15,21 @@ A rapid introduction to Quantum Field Theory, culminating in lectures on Effecti
 The course develops QFT through the path integral formulation focusing on developing calculational techniques necessary for particle physics research.
 The notes were primarily developed following the textbooks by Sterman, Srednicki, and Schwartz.<br>
 <br>
-Chapter 1 - Spin, Irreps, Lorentz Group, some Path Integrals<br>
+Chapter 1 - Spin, irreducible representations, Lorentz group, some path integrals<br>
 [Notes]({{ site.url }}/assets/pdf/1_Irreps_LorentzGroup.pdf)    [Problems]({{ site.url}}/assets/pdf/ProblemSet1.pdf)    [Solutions]({{ site.url}}/assets/pdf/soln1.pdf)<br>
-Chapter 2 - Path integrals and Generating functions in Scalar field theory<br>
+Chapter 2 - Path integrals and generating functionals in scalar field theory<br>
 [Notes]({{ site.url }}/assets/pdf/2_PI_GenFunc_FR.pdf)    [Problems]({{ site.url}}/assets/pdf/ProblemSet2.pdf)    [Solutions]({{ site.url}}/assets/pdf/soln2.pdf)<br>
-Chapter 3 - Lagrangains fro Fermions, Dirac Algebra, Path Integrals for Fermionic fields<br>
+Chapter 3 - Lagrangains for fermions, Dirac algebra, path integrals for fermionic fields<br>
 [Notes]({{ site.url }}/assets/pdf/3_Fermions_Lag_DiracAlg_PI.pdf)    [Problems]({{ site.url}}/assets/pdf/ProblemSet3.pdf)    [Solutions]({{ site.url}}/assets/pdf/soln3.pdf)<br>
-Chapter 4 - Path Integrals for Vector fields, Quantum Electrodynamics (QED)<br>
+Chapter 4 - Path integrals for vector fields, quantum electrodynamics (QED)<br>
 [Notes]({{ site.url }}/assets/pdf/4_Vectors_QED.pdf)    [Problems]({{ site.url}}/assets/pdf/ProblemSet4.pdf)    [Solutions]({{ site.url}}/assets/pdf/soln4.pdf)<br>
-Chapter 5 - Loop Integrals, Renormalization in Scalar field theory, Renomalizability<br>
+Chapter 5 - Loop integrals, renormalization in scalar field theory, renomalizability<br>
 [Notes]({{ site.url }}/assets/pdf/5_LoopInt_RenormScalars_Renomalizability.pdf)    [Problems]({{ site.url}}/assets/pdf/ProblemSet5.pdf)    [Solutions]({{ site.url}}/assets/pdf/soln5.pdf)<br>
-Chapter 6 - Loops, Renormalization, and RGEs in QED<br>
+Chapter 6 - Loops, renormalization, and renormalization group equations in QED<br>
 [Notes]({{ site.url }}/assets/pdf/6_QEDat1loop.pdf)    [Problems]({{ site.url}}/assets/pdf/ProblemSet6.pdf)    [Solutions]({{ site.url}}/assets/pdf/soln6.pdf)<br>
-Chapter 7 - Yang Mills Theory<br>
+Chapter 7 - Yang Mills theory<br>
 [Notes]({{ site.url }}/assets/pdf/7_YangMills.pdf)    [Problems]({{ site.url}}/assets/pdf/ProblemSet7.pdf)    [Solutions]({{ site.url}}/assets/pdf/soln7.pdf)<br>
-Chapter 8 - Spontaneous Symmetry Breaking and the Standard Model<br>
+Chapter 8 - Spontaneous symmetry breaking and the Standard Model<br>
 [Notes]({{ site.url }}/assets/pdf/8_SSB_SM.pdf) <br>
 Chapter 9 - 
 
@@ -50,12 +50,20 @@ The course covered:<br>
 
 <br>
 <br>
-<b> Fall 2022 - Exercise group (recitation) for Advanced Quantum Mechanics (graduate level QM)</b><br>
+<b> Fall 2022 - Exercise group (recitation) for advanced quantum mechanics (graduate level QM)</b><br>
 
 <br>
 <br>
-<b> Advanced Graduate Seminar - Melbourne University </b><br>
+<b> Spring 2018 - Advanced graduate seminar - Melbourne University </b><br>
+<b> Spring 2017 - Advanced graduate seminar - Melbourne University </b><br>
+<b> Spring 2016 - Advanced graduate seminar - Melbourne University </b><br>
 An introduction to one-loop calculations, renormalization, and renormalization group equations in Quantum Field Theory for Master's student. The format was one-half lectures, one-half presentation by students.<br>
 
 <br>
 <br>
+<b> Spring 2012 - Electricity and Magnetism I grader (Graduate level)</b>
+<b> Spring 2012 - Graduate Laboratory instructor (Laboratory class for PhD and Master's students</b>
+<b> Fall 2011 - Quantum Mechanics I grader (Graduate level)</b>
+<b> Fall 2011 - Classical Physics Laboratory instructor (Introductory Bachelor's mechanics lab)</b>
+<b> Spring 2011 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b>
+<b> Fall 2010 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b>
