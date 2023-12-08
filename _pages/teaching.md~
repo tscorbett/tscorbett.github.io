@@ -2,7 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: My teaching over the years, only recent teaching includes resources. (Under development)
+description: My teaching over the years, only my most recent teaching includes resources. Older materials are available upon request.<br>
+I have also taught at 3 summer schools, European School of High Energy Physics (2023), DKPI Spring Retreat (2022), and NBI Neutrino School <a href='https://www.youtube.com/watch?v=Ac27httrbkg'> (Youtube)<br>
+(This section still under development)
 nav: true
 nav_order: 5
 ---
@@ -32,7 +34,7 @@ Chapter 9 -
 
 <br>
 <br>
-<b> Spring 2023 - Exercise group (recitation) for Analysis II (multivariate calculus)<br>
+<b> Spring 2023 - Exercise group (recitation) for Analysis II (multivariate calculus)</b><br>
 <br>
 <br>
 <b> Fall 2022 - "Modern Methods in Particle Physics" (Master's/PhD, approx 13 Lectures)</b><br>
