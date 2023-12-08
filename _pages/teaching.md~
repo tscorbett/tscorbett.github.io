@@ -29,3 +29,29 @@ Chapter 7 - Yang Mills Theory<br>
 Chapter 8 - Spontaneous Symmetry Breaking and the Standard Model<br>
 [Notes]({{ site.url }}/assets/pdf/8_SSB_SM.pdf) <br>
 Chapter 9 - 
+
+<br>
+<br>
+<b> Spring 2023 - Exercise group (recitation) for Analysis II (multivariate calculus)<br>
+<br>
+<br>
+<b> Fall 2022 - "Modern Methods in Particle Physics" (Master's/PhD, approx 13 Lectures)</b><br>
+The course covered:<br>
+1) The SM, fields, symmetries, Lagrangian, Rules, Equations of Motion<br>
+2) Phenomenology of the Z-pole at LEP, tree level comparison with data, 2+ loop comparison with data (using parameterized results)<br>
+3) Effective Field Theories, Fermi theory, top-down and bottom-up EFTs<br>
+4) The Standard Model Effective Field Theory, deriving the Warsaw basis<br>
+5) Phenomenology in the SMEFT<br>
+6) Loops and EFTs, introduction to Chiral Perturbation Theory<br>
+
+<br>
+<br>
+<b> Fall 2022 - Exercise group (recitation) for Advanced Quantum Mechanics (graduate level QM)</b><br>
+
+<br>
+<br>
+<b> Advanced Graduate Seminar - Melbourne University </b><br>
+An introduction to one-loop calculations, renormalization, and renormalization group equations in Quantum Field Theory for Master's student. The format was one-half lectures, one-half presentation by students.<br>
+
+<br>
+<br>
