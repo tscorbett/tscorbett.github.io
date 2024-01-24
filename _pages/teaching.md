@@ -32,11 +32,11 @@ Chapter 7 - Yang Mills theory, QCD beta function, some QCD phenomenology (qualit
 Chapter 8 - Spontaneous symmetry breaking and the Standard Model<br>
 &emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/8_SSB_SM.pdf) &emsp;&emsp; [Problems]({{ site.url}}/assets/pdf/ProblemSet8.pdf) &emsp;&emsp; [Solutions]({{ site.url}}/assets/pdf/soln8.pdf)<br>
 Chapter 9 - The Z-pole in the Standard Model <br>
-&emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/9_SM_Zpole.pdf) &emsp;&emsp; [Problems]({{ site.url}}/assets/pdf/ProblemSet9.pdf) &emsp;&emsp; [Solutions, Mathematica .nb]({{site.url}}/assets/pdf/Soln9.nb)<br>
+&emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/9_SM_Zpole.pdf) &emsp;&emsp; [Problems]({{ site.url}}/assets/pdf/ProblemSet9.pdf) &emsp;&emsp; [Solutions (Mathematica .nb download)]({{site.url}}/assets/pdf/Soln9.nb)<br>
 Chapter 10 - Effective Field Theories <br>
 &emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/10_EFTs.pdf) <br>
 Chapter 11 - The Standard Model Effective Field Theory <br>
-&emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/11_SMEFT.pdf) &emsp;&emsp; No problem set given.
+&emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/11_SMEFT.pdf) &emsp;&emsp; No problem set given. <br>
 Chapter 12 - Phenomenology of the SMEFT <br>
 &emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/12_SMEFT_pheno.pdf) &emsp;&emsp; No problem set given. <br>
 [Final Exam]({{ site.url }}/assets/pdf/FinalAssignment_wSMEFT.pdf), solutions available upon request from a university email address which isn't Uni Wien.
