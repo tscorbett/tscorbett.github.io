@@ -30,8 +30,12 @@ Chapter 6 - Loops, renormalization, and renormalization group equations in QED<b
 Chapter 7 - Yang Mills theory, QCD beta function, some QCD phenomenology (qualitative)<br>
 &emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/7_YangMills.pdf) &emsp;&emsp; [Problems]({{ site.url}}/assets/pdf/ProblemSet7.pdf) &emsp;&emsp; [Solutions]({{ site.url}}/assets/pdf/soln7.pdf)<br>
 Chapter 8 - Spontaneous symmetry breaking and the Standard Model<br>
-&emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/8_SSB_SM.pdf) &emsp;&emsp;<br>
-Chapter 9 - 
+&emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/8_SSB_SM.pdf) &emsp;&emsp; [Problems]({{ site.url}}/assets/pdf/ProblemSet8.pdf) &emsp;&emsp; [Solutions]({{ site.url}}/assets/pdf/soln8.pdf)<br>
+Chapter 9 - The Z-pole in the Standard Model <br>
+&emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/9_SM_Zpole.pdf) &emsp;&emsp; [Problems]({{ site.url}}/assets/pdf/ProblemSet9.pdf) &emsp;&emsp; <br>
+Chapter 10 - Effective Field Theories <br>
+&emsp;&emsp;[Notes]({{ site.url }}/assets/pdf/10_EFTs.pdf) <br>
+
 
 <br>
 <b> Spring 2023 - Exercise group (recitation) for Analysis II (multivariate calculus)</b><br>
