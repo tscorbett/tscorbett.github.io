@@ -10,7 +10,7 @@ nav_order: 5
 I have also taught at 3 summer schools, European School of High Energy Physics (2023), DKPI Spring Retreat (2022), and NBI Neutrino School <a href='https://www.youtube.com/watch?v=Ac27httrbkg'> (Youtube)</a><br>
 
 <br>
-<b>Fall 2025 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures) </b><br>
+<b>&#8226; Fall 2025 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures) </b><br>
 A rapid introduction to Quantum Field Theory, culminating in lectures on Effective Field Theories and the Standard Model Effective Field Theory.
 The course develops QFT through the path integral formulation focusing on developing calculational techniques necessary for particle physics research.
 The notes were primarily developed following the textbooks by Sterman, Srednicki, and Schwartz.<br>
