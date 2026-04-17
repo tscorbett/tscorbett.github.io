@@ -18,15 +18,15 @@ The notes were primarily developed following the textbooks by Sterman, Srednicki
 Remaining notes, problem sets, solutions follow as below Fall 2023 example below.<br><br>
 
 <br>
-<b>Spring 2025 - Exercise group (recitation) for Theoretical Physics I (Lagrangian/Hamiltonian Mechanics)</b><br>
+<b>&#8226; Spring 2025 - Exercise group (recitation) for Theoretical Physics I (Lagrangian/Hamiltonian Mechanics)</b><br>
 
 <br>
-<b>Fall 2024 - Exercise group (recitation) for Analysis I (single variable calculus)</b><br>
+<b>&#8226; Fall 2024 - Exercise group (recitation) for Analysis I (single variable calculus)</b><br>
 
 <br>
-<b>Spring 2024 - Exercise group (recitation) for Analysis II (multivariate calculus)</b><br><br>
+<b>&#8226; Spring 2024 - Exercise group (recitation) for Analysis II (multivariate calculus)</b><br><br>
 
-<b>Fall 2023 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures)</b><br>
+<b>&#8226; Fall 2023 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures)</b><br>
 A rapid introduction to Quantum Field Theory, culminating in lectures on Effective Field Theories and the Standard Model Effective Field Theory.
 The course develops QFT through the path integral formulation focusing on developing calculational techniques necessary for particle physics research.
 The notes were primarily developed following the textbooks by Sterman, Srednicki, and Schwartz.<br>
@@ -59,10 +59,10 @@ Chapter 12 - Phenomenology of the SMEFT <br>
 
 
 <br>
-<b> Spring 2023 - Exercise group (recitation) for Analysis II (multivariate calculus)</b><br>
+<b>&#8226;  Spring 2023 - Exercise group (recitation) for Analysis II (multivariate calculus)</b><br>
 
 <br>
-<b> Fall 2022 - "Modern Methods in Particle Physics" (Master's/PhD, approx 13 Lectures)</b><br>
+<b>&#8226;  Fall 2022 - "Modern Methods in Particle Physics" (Master's/PhD, approx 13 Lectures)</b><br>
 The course covered:<br>
 1) The SM, fields, symmetries, Lagrangian, Rules, Equations of Motion<br>
 2) Phenomenology of the Z-pole at LEP, tree level comparison with data, 2+ loop comparison with data (using parameterized results)<br>
@@ -72,18 +72,18 @@ The course covered:<br>
 6) Loops and EFTs, introduction to Chiral Perturbation Theory<br>
 
 <br>
-<b> Fall 2022 - Exercise group (recitation) for advanced quantum mechanics (graduate level QM)</b><br>
+<b>&#8226;  Fall 2022 - Exercise group (recitation) for advanced quantum mechanics (graduate level QM)</b><br>
 
 <br>
-<b> Spring 2018 - Advanced graduate seminar - Melbourne University </b><br>
-<b> Spring 2017 - Advanced graduate seminar - Melbourne University </b><br>
-<b> Spring 2016 - Advanced graduate seminar - Melbourne University </b><br>
+<b>&#8226;  Spring 2018 - Advanced graduate seminar - Melbourne University </b><br>
+<b>&#8226;  Spring 2017 - Advanced graduate seminar - Melbourne University </b><br>
+<b>&#8226;  Spring 2016 - Advanced graduate seminar - Melbourne University </b><br>
 An introduction to one-loop calculations, renormalization, and renormalization group equations in Quantum Field Theory for Master's student. The format was one-half lectures, one-half presentation by students.<br>
 
 <br>
-<b> Spring 2012 - Electricity and Magnetism I grader (Graduate level)</b><br>
-<b> Spring 2012 - Graduate Laboratory instructor (Laboratory class for PhD and Master's students</b><br>
-<b> Fall 2011 - Quantum Mechanics I grader (Graduate level)</b><br>
-<b> Fall 2011 - Classical Physics Laboratory instructor (Introductory Bachelor's mechanics lab)</b><br>
-<b> Spring 2011 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b><br>
-<b> Fall 2010 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b><br>
+<b>&#8226;  Spring 2012 - Electricity and Magnetism I grader (Graduate level)</b><br>
+<b>&#8226;  Spring 2012 - Graduate Laboratory instructor (Laboratory class for PhD and Master's students</b><br>
+<b>&#8226;  Fall 2011 - Quantum Mechanics I grader (Graduate level)</b><br>
+<b>&#8226;  Fall 2011 - Classical Physics Laboratory instructor (Introductory Bachelor's mechanics lab)</b><br>
+<b>&#8226;  Spring 2011 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b><br>
+<b>&#8226;  Fall 2010 - Modern Physics Laboratory instructor (Introductory Bachelor's quantum mechanics lab)</b><br>
