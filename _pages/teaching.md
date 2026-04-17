@@ -9,6 +9,8 @@ nav_order: 5
 
 I have also taught at 3 summer schools, European School of High Energy Physics (2023), DKPI Spring Retreat (2022), and NBI Neutrino School <a href='https://www.youtube.com/watch?v=Ac27httrbkg'> (Youtube)</a><br>
 
+<br>
+<b>Spring 2024 - Exercise group (recitation) for Analysis I (single variable calculus)</b><br>
 
 <b>Fall 2023 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures, still in development)</b><br>
 A rapid introduction to Quantum Field Theory, culminating in lectures on Effective Field Theories and the Standard Model Effective Field Theory.
