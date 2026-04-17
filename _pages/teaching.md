@@ -10,9 +10,23 @@ nav_order: 5
 I have also taught at 3 summer schools, European School of High Energy Physics (2023), DKPI Spring Retreat (2022), and NBI Neutrino School <a href='https://www.youtube.com/watch?v=Ac27httrbkg'> (Youtube)</a><br>
 
 <br>
-<b>Spring 2024 - Exercise group (recitation) for Analysis I (single variable calculus)</b><br>
+<b>Fall 2025 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures) </b><br>
+A rapid introduction to Quantum Field Theory, culminating in lectures on Effective Field Theories and the Standard Model Effective Field Theory.
+The course develops QFT through the path integral formulation focusing on developing calculational techniques necessary for particle physics research.
+The notes were primarily developed following the textbooks by Sterman, Srednicki, and Schwartz.<br>
+[Typset notes for first half available here]({{ site.url}}/assets/pdf/Corbett_QFT_Notes.pdf)<br>
+Remaining notes, problem sets, solutions follow as below Fall 2023 example below.<br><br>
 
-<b>Fall 2023 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures, still in development)</b><br>
+<br>
+<b>Spring 2025 - Exercise group (recitation) for Theoretical Physics I (Lagrangian/Hamiltonian Mechanics)</b><br>
+
+<br>
+<b>Fall 2024 - Exercise group (recitation) for Analysis I (single variable calculus)</b><br>
+
+<br>
+<b>Spring 2024 - Exercise group (recitation) for Analysis II (multivariate calculus)</b><br><br>
+
+<b>Fall 2023 - "Modern Methods in Particle Physics" (Master's/PhD, 27 lectures)</b><br>
 A rapid introduction to Quantum Field Theory, culminating in lectures on Effective Field Theories and the Standard Model Effective Field Theory.
 The course develops QFT through the path integral formulation focusing on developing calculational techniques necessary for particle physics research.
 The notes were primarily developed following the textbooks by Sterman, Srednicki, and Schwartz.<br>
